@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 0.99,
+      "description": "Fresh and juicy apple.",
+      "category": "Fruits",
+      "image": "https://img.freepik.com/premium-photo/red-apples-isolated-white-background-ripe-fresh-apples-clipping-path-apple-with-leaf_299651-595.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bread",
+      "price": 2.49,
+      "description": "A loaf of freshly baked bread.",
+      "category": "Bakery",
+      "image": "https://img.freepik.com/free-photo/delicious-bread-table_144627-12454.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Milk",
+      "price": 1.99,
+      "description": "Fresh cow's milk.",
+      "category": "Dairy",
+      "image": "https://img.freepik.com/free-photo/fresh-milk-mug-jug-wooden-table_114579-18233.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Eggs",
+      "price": 2.99,
+      "description": "Farm-fresh eggs.",
+      "category": "Dairy",
+      "image": "https://media.istockphoto.com/id/451505631/photo/two-eggs-isolated-on-white.jpg?s=612x612&w=0&k=20&c=0_4dr9YjsXEIp8UuvrLFksCpzBwbpgfS1Q7PAXBbcSE="
+    }
+  ]
+}
