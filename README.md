@@ -2,9 +2,11 @@
 
 A Flutter project using Bloc. This app has 3 screen, Home, Favorites and Cart pages.
 
-Click on icon Favorites and icon color will be changed to reand it'll be listed in Favorite page.
+Click on icon Favorites and icon color will change to red and item will be listed in Favorite page.
 
-To remove item from Favorites, simply click again on icon Favorites
+To remove item from Favorites, simply click again on icon Favorites.
+
+Cart Pages has not been completed yet.
 
 ## Snapshot of the apps
 
