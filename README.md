@@ -1,16 +1,14 @@
 # grocery_app
 
-A new Flutter project.
+A Flutter project using Bloc. This app has 3 screen, Home, Favorites and Cart pages.
 
-## Getting Started
+Click on icon Favorites and icon color will be changed to reand it'll be listed in Favorite page.
 
-This project is a starting point for a Flutter application.
+To remove item from Favorites, simply click again on icon Favorites
 
-A few resources to get you started if this is your first Flutter project:
+## Snapshot of the apps
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="279" alt="Screen Shot 2023-06-07 at 12 54 59" src="https://github.com/LilyanaShu/grocery_app/assets/132737700/73275edf-cedd-491e-ad72-86d875df211f">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="287" alt="Screen Shot 2023-06-07 at 12 55 25" src="https://github.com/LilyanaShu/grocery_app/assets/132737700/c69565f6-1eae-4bb2-a657-573e899ed95e">
+
