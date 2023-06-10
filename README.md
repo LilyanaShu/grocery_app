@@ -1,6 +1,6 @@
 # grocery_app
 
-A Flutter project using Bloc. This app has 3 screen, Home, Favorites and Cart pages.
+A Flutter project using Bloc. This app has 3 screens, Home, Favorites and Cart.
 
 Click on icon Favorites and icon color will change to red and item will be listed in Favorite page.
 
